@@ -6,7 +6,7 @@ In Pong, a player controls paddles on the screen while an AI contoled computer c
 
 My purpose for writing this software was to gain hands-on experience in game development, especially within Unreal Engine 5. By programming Pong, I aimed to build a solid foundation in game mechanics, physics, object collision, and much more. This project allowed me to learn how to create a functional, interactive game, which is an essential skill for a software engineer aspiring to delve into the world of game development.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/OxliRa_1QhQ)
 
 # Development Environment
 
@@ -25,4 +25,8 @@ There is a lot of things that could be imporved on my game.
 * Creat a UI for the user to start the level when ready
 * Add colors and themes to make the game more visualy apealing
 * Implament harder AI's for the computer
-* Add background music.
+* Add background music
+* Create a rally gamemode
+* Optimize the code
+* Simplify
+* Test for bugs
