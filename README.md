@@ -1,32 +1,28 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I developed a game called Pong in Unreal Engine 5 with the primary goal of learning basic game development. Pong is a classic arcade game that I chose to recreate as it serves as an excellent starting point for understanding game mechanics and Unreal Engine.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+In Pong, a player controls paddles on the screen while an AI contoled computer contoles the other. The objective is to bounce a ball back and forth between the paddles, trying to outmaneuver your opponent and score points. The game is simple to play, as each player can move their paddle up and down to intercept the ball.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+My purpose for writing this software was to gain hands-on experience in game development, especially within Unreal Engine 5. By programming Pong, I aimed to build a solid foundation in game mechanics, physics, object collision, and much more. This project allowed me to learn how to create a functional, interactive game, which is an essential skill for a software engineer aspiring to delve into the world of game development.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Unreal Engine 5, Blueprint Visual Scripting, C++, Unreal Motion Graphics (UMG), Epic Games' Documentation and Tutorials.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Linux Arcade Installation](https://api.arcade.academy/en/latest/install/linux.html)
-* [Learning To Use Arcade](https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade)
-
+* [Epic Games' Documentation and Tutorials]([http://url.link.goes.here](https://www.unrealengine.com/en-US/unreal-engine-5?utm_source=GoogleSearch&utm_medium=Performance&utm_campaign=17086214833&utm_id=146567424678&utm_term=unreal%205&utm_content=646621959962))
+* [Blueprint Tutorial]([https://api.arcade.academy/en/latest/install/linux.html](https://www.youtube.com/watch?v=bY6Nl-OEhSo))
+* [Blueprint Documentation/Tutorial]([https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade](https://docs.unrealengine.com/5.0/en-US/blueprint-tutorials-in-unreal-engine/))
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+There is a lot of things that could be imporved on my game.
+
+* Creat a UI for the user to start the level when ready
+* Add colors and themes to make the game more visualy apealing
+* Implament harder AI's for the computer
+* Add background music.
